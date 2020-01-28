@@ -1,0 +1,57 @@
+
+/* Class = "UITextView"; text = "note"; ObjectID = "3DM-Xi-m7K"; */
+"3DM-Xi-m7K.text" = "note";
+
+/* Class = "UILabel"; text = "Tap to reveal enigma"; ObjectID = "5uZ-Qk-n2n"; */
+"5uZ-Qk-n2n.text" = "Tap to reveal enigma";
+
+/* Class = "UITextView"; text = "charade here"; ObjectID = "89q-et-eaH"; */
+"89q-et-eaH.text" = "charade here";
+
+/* Class = "UILabel"; text = "solve the enigma to beat the game!"; ObjectID = "D1Z-cA-Vgg"; */
+"D1Z-cA-Vgg.text" = "solve the enigma to beat the game!";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "E4e-mo-0g5"; */
+"E4e-mo-0g5.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EXW-yx-Ko6"; */
+"EXW-yx-Ko6.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kex-Jj-dGb"; */
+"Kex-Jj-dGb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "submit"; ObjectID = "M2G-IA-4c6"; */
+"M2G-IA-4c6.normalTitle" = "submit";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "P7U-bw-Dhq"; */
+"P7U-bw-Dhq.normalTitle" = "Settings";
+
+/* Class = "UINavigationItem"; title = "notes"; ObjectID = "PWK-bC-kCT"; */
+"PWK-bC-kCT.title" = "notes";
+
+/* Class = "UIButton"; normalTitle = "Rules"; ObjectID = "PnV-9q-f7h"; */
+"PnV-9q-f7h.normalTitle" = "Rules";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "WaS-br-gh6"; */
+"WaS-br-gh6.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "the rules are simple:"; ObjectID = "ghv-Fl-QAJ"; */
+"ghv-Fl-QAJ.text" = "the rules are simple:";
+
+/* Class = "UILabel"; text = "Rules"; ObjectID = "ipY-tM-NMk"; */
+"ipY-tM-NMk.text" = "Rules";
+
+/* Class = "UILabel"; text = "Enigm"; ObjectID = "oYc-6b-1Lq"; */
+"oYc-6b-1Lq.text" = "Enigm";
+
+/* Class = "UIButton"; normalTitle = "notes"; ObjectID = "rFo-LO-4og"; */
+"rFo-LO-4og.normalTitle" = "notes";
+
+/* Class = "UILabel"; text = "win"; ObjectID = "rwg-Gp-Cl5"; */
+"rwg-Gp-Cl5.text" = "win";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uPi-1c-qq9"; */
+"uPi-1c-qq9.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "question"; ObjectID = "uhe-1q-Auj"; */
+"uhe-1q-Auj.text" = "question";

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Enigma
+
+  Created by Salem, Nicholas on 11/26/19.
+  Copyright © 2019 Salem, Nicholas. All rights reserved.
+*/
+"continue"="contin";
+"rules"="regras";
+"notes"="notas";
+"settings"="ajustes";
+"rules1"="a regra e clara";
+"rules2"="resolva o enigma para vencer o jogo";
+"back"="voltar";
+"reveal"="revelar";
+"submit"="responder";
+"e"="o que voce precisa quebrar para poder usar?";
+"h"="tenho uma bariga, uma boca e uma foz, o que sou?";
